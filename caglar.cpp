@@ -10,5 +10,7 @@ int main (){
     cout<<"hello"<<endl;
     int x=sum(3,4);
     cout<<x<<endl;
+    cout<<"hello"<<endl;
+
 
 }
